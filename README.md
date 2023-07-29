@@ -41,11 +41,11 @@ I am a Python / PHP Developer from Iran.
 	<tr>
 		<td width="1200px">
 	    <h3>Apps :</h3>
-        <img align="right" src="https://skillicons.dev/icons?i=vscode,visualstudio,ps,postman,qt" draggable="false">
+        <img align="right" src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,qt" draggable="false">
 		</td>
 		<td width="1200px">
 	    <h3>Platforms :</h3>
-        <img align="right" src="https://skillicons.dev/icons?i=discord,instagram,github,instagram,linkedin,twitter" draggable="false">
+        <img align="right" src="https://skillicons.dev/icons?i=discord,instagram,github,linkedin,twitter" draggable="false">
 		</td>
 	</tr>
 	<tr>
