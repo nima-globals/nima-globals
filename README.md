@@ -23,16 +23,43 @@ I am a Python / PHP Developer from Iran.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
   
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+<br> 
+<br> 
   
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages & Tools  :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img align="left" src="https://skillicons.dev/icons?i=php,python,django,js,jquery,css,html,markdown,bootstrap,cloudflare,heroku,mysql,mongodb,sqlite" draggable="false">
 </div>
+<br>
+<br> 
+<br> 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pne-team&theme=dark&background=000000)](https://git.io/streak-stats)
-<br>
+
+<table align="center">
+	<tr>
+		<td width="1200px">
+	    <h3>Apps :</h3>
+        <img align="right" src="https://skillicons.dev/icons?i=vscode,visualstudio,ps,postman,qt" draggable="false">
+		</td>
+		<td width="1200px">
+	    <h3>Platforms :</h3>
+        <img align="right" src="https://skillicons.dev/icons?i=discord,instagram,github,instagram,linkedin,twitter" draggable="false">
+		</td>
+	</tr>
+	<tr>
+		<td width="1200px">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=pne-team&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" draggable="false">
+		</td>
+		<td width="1200px">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pne-team&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" draggable="false">
+		</td>
+	</tr>
+</table>
+
+### My Discord
+
+<a align="center" href="https://discord.com/users/1014987455650345010">
+ <img align="center" src="https://lanyard-profile-readme.vercel.app/api/1014987455650345010?theme=dark&animated=true&hideDiscrim=true&borderRadius=30px&hideStatus=true">
+   </a>
