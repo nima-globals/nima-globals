@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://pne-team.ir/nima/globals-icon.png" width="100"/>
+<img src="https://nima-globals.ir/nima/globals-icon.png" width="100"/>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/nima-ebrahimi-a07a02279/">
@@ -12,7 +12,7 @@
 </div>
 
 <br>
-<img src="https://komarev.com/ghpvc/?username=pne-team&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=nima-globals&style=flat-square&color=blue" alt=""/>
 
 </div>
 
@@ -50,10 +50,10 @@ I am a Python / PHP Developer from Iran.
 	</tr>
 	<tr>
 		<td width="1200px">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=pne-team&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" draggable="false">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=nima-globals&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" draggable="false">
 		</td>
 		<td width="1200px">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pne-team&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" draggable="false">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nima-globals&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" draggable="false">
 		</td>
 	</tr>
 </table>
