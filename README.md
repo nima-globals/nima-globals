@@ -1,5 +1,7 @@
+lol
+
 <div id="header" align="center">
-<img src="https://nima-globals.ir/nima/globals-icon.png" width="100"/>
+<img src="https://pne-team.ir/nima/globals-icon.png" width="100"/>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/nima-ebrahimi-a07a02279/">
