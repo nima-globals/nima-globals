@@ -1,4 +1,4 @@
-lol
+
 
 <div id="header" align="center">
 <img src="https://pne-team.ir/nima/globals-icon.png" width="100"/>
