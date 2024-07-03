@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-<img src="https://pne-team.ir/nima/globals-icon.png" width="100"/>
+<img src="https://nimaglobals.ir/assets/globals-icon.png" width="100"/>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/nima-ebrahimi-a07a02279/">
@@ -59,9 +59,3 @@ I am a Python / PHP Developer from Iran.
 		</td>
 	</tr>
 </table>
-
-### My Discord
-
-<a align="center" href="https://discord.com/users/1014987455650345010">
- <img align="center" src="https://lanyard-profile-readme.vercel.app/api/1014987455650345010?theme=dark&animated=true&hideDiscrim=true&borderRadius=30px&hideStatus=true">
-   </a>
