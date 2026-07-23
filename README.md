@@ -92,6 +92,17 @@ Smart DNS changer with AI-assisted selection and support for major DNS providers
 <tr>
 <td width="50%" valign="top">
 
+### ⚡ [RemoSearch](https://github.com/nima-globals/remosearch)
+<img src="https://img.shields.io/github/stars/nima-globals/remosearch?style=flat-square&color=6C5CE7&labelColor=0B0E13" /> <img src="https://img.shields.io/github/last-commit/nima-globals/remosearch?style=flat-square&color=6C5CE7&labelColor=0B0E13" />
+
+A modern, fully Persian browser start page with multi-engine search, live crypto prices, dual calendar, and dev tools.
+<br/><sub dir="rtl">صفحه‌ی شروع مرورگر، مدرن و کاملاً فارسی؛ جستجوی چند موتوره، بازار زنده‌ی کریپتو، تقویم شمسی/میلادی و ابزارهای توسعه‌دهنده.</sub>
+
+`Web App` `Vanilla JS` `localStorage`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🧮 [IP Calc](https://github.com/nima-globals/ipcalc)
 <img src="https://img.shields.io/github/stars/nima-globals/ipcalc?style=flat-square&color=00F5A0&labelColor=0B0E13" /> <img src="https://img.shields.io/github/last-commit/nima-globals/ipcalc?style=flat-square&color=00F5A0&labelColor=0B0E13" />
 
@@ -101,6 +112,8 @@ Advanced IP & Subnet calculator — CIDR, ranges, broadcast, wildcard.
 `Networking Tools`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 💱 [Easy Saraf](https://github.com/nima-globals/easy-saraf)
@@ -112,8 +125,6 @@ Desktop app for live currency, gold, and coin prices.
 `Desktop App`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🪝 [Master Hook](https://github.com/nima-globals/master-hook)
@@ -125,6 +136,8 @@ Webhook sender with a clean UI and full feature set.
 `Python` `Webhooks`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📦 [PBOX](https://github.com/nima-globals/pbox)
@@ -135,6 +148,8 @@ All-in-one utility desktop toolbox.
 
 `Desktop App`
 
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
